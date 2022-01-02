@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		EA93F4ED27696E5D0056836C /* Concurrency */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Concurrency; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA93F4ED27696E5D0056836C /* Concurrency */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Concurrency; path = "/Users/m_2022814/Documents/Swift Language Refresher/Concurrency/build/Debug/Concurrency"; sourceTree = "<absolute>"; };
 		EA93F4F027696E5D0056836C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -42,22 +42,22 @@
 			isa = PBXGroup;
 			children = (
 				EA93F4EF27696E5D0056836C /* Concurrency */,
-				EA93F4EE27696E5D0056836C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
 		EA93F4EE27696E5D0056836C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA93F4ED27696E5D0056836C /* Concurrency */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		EA93F4EF27696E5D0056836C /* Concurrency */ = {
 			isa = PBXGroup;
 			children = (
 				EA93F4F027696E5D0056836C /* main.swift */,
+				EA93F4EE27696E5D0056836C /* Products */,
 			);
 			path = Concurrency;
 			sourceTree = "<group>";
